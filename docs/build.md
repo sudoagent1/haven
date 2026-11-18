@@ -33,7 +33,7 @@ sudo apt install build-essential`
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/barrydeen/haven.git
+git clone https://github.com/sudoagent1/haven.git
 cd haven
 ```
 

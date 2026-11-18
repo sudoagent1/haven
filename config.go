@@ -80,7 +80,7 @@ type Config struct {
 	S3Config                             *S3Config           `json:"s3_config"`
 }
 
-const relaySoftware = "https://github.com/barrydeen/haven"
+const relaySoftware = "https://github.com/sudoagent1/haven"
 
 func loadConfig() Config {
 	cfg := Config{

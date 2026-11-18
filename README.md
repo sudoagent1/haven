@@ -1,13 +1,14 @@
 # HAVEN
 
-[![Go version](https://img.shields.io/github/go-mod/go-version/barrydeen/haven?logo=go)](./go.mod#L3)
-[![GitHub Release](https://img.shields.io/github/v/release/barrydeen/haven?link=https%3A%2F%2Fgithub.com%2Fbarrydeen%2Fhaven%2Freleases%2Flatest)](https://github.com/barrydeen/haven/releases/latest)
+[![Go version](https://img.shields.io/github/go-mod/go-version/sudoagent1/haven?logo=go)](./go.mod#L3)
+[![GitHub Release](https://img.shields.io/github/v/release/sudoagent1/haven?link=https%3A%2F%2Fgithub.com%2Fsudoagent1%2Fhaven%2Freleases%2Flatest)](https://github.com/sudoagent1/haven/releases/latest)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
-[![CI](https://github.com/barrydeen/haven/actions/workflows/lint.yml/badge.svg)](https://github.com/barrydeen/haven/actions/workflows/lint.yml)
-[![Go Report Card](https://goreportcard.com/badge/github.com/barrydeen/haven)](https://goreportcard.com/report/github.com/barrydeen/haven)
+[![CI](https://github.com/sudoagent1/haven/actions/workflows/lint.yml/badge.svg)](https://github.com/sudoagent1/haven/actions/workflows/lint.yml)
+[![Go Report Card](https://goreportcard.com/badge/github.com/sudoagent1/haven)](https://goreportcard.com/report/github.com/sudoagent1/haven)
 
 > [!IMPORTANT]
 > HAVEN is considered feature complete and, going forward, Barry Deen's repository will only receive bug fixes.
+> Barry Deen's repository has since been archived. Development and maintenance continue in this repository.
 > See the announcement [here](https://jumble.social/notes/nevent1qvzqqqqqqypzpckv7l8jqspl8u4y54dn9rcduwlrs4v2040nxce0m2h0cunvrj8tqy88wumn8ghj7mn0wvhxcmmv9uq3wamnwvaz7tmjv4kxz7fwwpexjmtpdshxuet59uqzqnjwq82z3lq62mkalaxu2dlgnjxw2stcwxan9wl66s7eywwjljvqx0s8cp)
 
 HAVEN (High Availability Vault for Events on Nostr) is the most sovereign personal relay for the Nostr protocol, for 
@@ -67,7 +68,7 @@ for easy recovery. See [Backup Documentation](docs/backup.md) for more details.
 
 The easiest way to get started with Haven is to download pre-built binaries from our GitHub releases page:
 
-**[Download Haven Releases](https://github.com/barrydeen/haven/releases/)**
+**[Download Haven Releases](https://github.com/sudoagent1/haven/releases/)**
 
 #### Installation Steps:
 
